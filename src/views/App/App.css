@@ -1,21 +1,5 @@
 @import "styles/variables";
 
-body {
-  font: var(--font-size-medium);
-  font-family: var(--font-stack-default);
-  background-color: var(--color-black);
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-content: space-around;
-}
-
-h1 {
-  font-family: var(--font-stack-default);
-  font-size: var(--font-size-large);
-  font-weight: 500;
-}
-
 .app {
   width: 100%;
 }
