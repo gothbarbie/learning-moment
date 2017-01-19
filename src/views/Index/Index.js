@@ -7,7 +7,7 @@ export default class Index extends Component {
   render () {
     return (
       <div styleName="index">
-      
+        Test
       </div>
     )
   }
