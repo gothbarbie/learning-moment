@@ -1,5 +1,5 @@
 {
-  "name": "learning-moment",
+  "name": "react-scaffolding",
   "version": "1.0.0",
   "scripts": {
     "clean": "rimraf dist",
